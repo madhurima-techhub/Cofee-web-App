@@ -3,7 +3,7 @@
 
  function Login() {
   return (
-    <div className="login-page id=Log">
+    <div className="login-page" id="Log">
       <section className="brand-section">
         <h1>Good Coffee<br />Brighter Days ♡</h1>
         <div className="brand-line"></div>
